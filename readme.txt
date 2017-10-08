@@ -1,4 +1,4 @@
-*ABC Book Company*
+**ABC Book Company**
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ABC Book Company is a bookstore with a single outlet. They require a computerized system that would handle their day-to-day operations of inventory.  Primary scope of this assignment is to provide a comprehensive solution that uses Object Oriented Programing concepts.
